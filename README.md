@@ -28,7 +28,7 @@ que eres determinado por tu día y mes de nacimiento.*
 - HTML5
 - CSS3
 
-## Link al sitio: [Horóscopo Gamer]([(https://github.com/UCC-LabCompu2/Proyecto-Hernandez-Cuello/blob/main/proyecto2024-cuello-hernandez/index.html))].
+## Link al sitio: [Horóscopo Gamer](https://github.com/UCC-LabCompu2/Proyecto-Hernandez-Cuello/blob/main/proyecto2024-cuello-hernandez/index.html).
 
 ### **Desarrolladores:**
 
